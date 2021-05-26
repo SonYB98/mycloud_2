@@ -16,13 +16,16 @@
             <p>임시1(아직 못정함)</p>
           </div>
           <div class="message-body">
-            <figure class = "image is-4by3">
-              <img src ="/assets/dog.jpg" alt="" />
+            <figure class="image is-128x128">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bulldog_adult_male.jpg/220px-Bulldog_adult_male.jpg"
+                alt=""
+              />
             </figure>
             임시1에 대한 내용
           </div>
         </article>
-      </div>    
+      </div>
 
       <div class="column">
         <article class="message">
@@ -30,8 +33,10 @@
             <p>임시2(아직 못정함)</p>
           </div>
           <div class="message-body">
-            임시2에 대한 내용
-          </div>
+             <figure class="image is-128x128">
+               <img src="~assets/dog.jpg" alt="" />
+              </figure>
+            임시2에 대한 내용</div>
         </article>
       </div>
 
@@ -40,12 +45,9 @@
           <div class="message-header">
             <p>임시3(아직 못정함)</p>
           </div>
-          <div class="message-body">
-            임시3에 대한 내용
-          </div>
+          <div class="message-body">임시3에 대한 내용</div>
         </article>
       </div>
-
     </div>
   </div>
 </template>
