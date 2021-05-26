@@ -1,7 +1,7 @@
 {
-  "name": "doglove",
+  "name": "mydogcat",
   "version": "1.0.0",
-  "description": "Dogs and cats information for everyone",
+  "description": "Dogs and cats medical",
   "author": "yongheuicho <yongheuicho@gmail.com>",
   "private": true,
   "scripts": {
