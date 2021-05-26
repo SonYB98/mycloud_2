@@ -16,7 +16,7 @@
             <p>임시1(아직 못정함)</p>
           </div>
           <div class="message-body">
-            <figure class = "image is-128x128">
+            <figure class = "image is-4by3">
               <img src ="/image/dog.jpg" alt="" />
             </figure>
             임시1에 대한 내용
