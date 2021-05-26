@@ -17,7 +17,7 @@
           </div>
           <div class="message-body">
             <figure class = "image is-4by3">
-              <img src ="/image/dog.jpg" alt="" />
+              <img src ="/assets/dog.jpg" alt="" />
             </figure>
             임시1에 대한 내용
           </div>
