@@ -1,10 +1,10 @@
-# doglove
+# mydogcat
 
-> Dogs and cats information for everyone
+> Dogs and cats medical
 
 # Website Domain Name
 
-> https://www.doglove.tk/
+> https://www.mydogcat.tk/
 
 ## Build Setup
 
